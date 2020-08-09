@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+/*Main CSS*/
+body{
+	background-color: 	#d3d3d3;
+}
+
+
+	.navbar{
+		background-color: 	#003d99;
+		border:none;
+	}
+
+	
